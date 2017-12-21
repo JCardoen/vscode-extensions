@@ -1,0 +1,6 @@
+/home/colby/Documents/Programming/hello-vscode/build/CMakeFiles/rebuild_cache.dir
+/home/colby/Documents/Programming/hello-vscode/build/CMakeFiles/edit_cache.dir
+/home/colby/Documents/Programming/hello-vscode/build/CMakeFiles/npm-install.dir
+/home/colby/Documents/Programming/hello-vscode/build/CMakeFiles/compile.dir
+/home/colby/Documents/Programming/hello-vscode/build/CMakeFiles/docs.dir
+/home/colby/Documents/Programming/hello-vscode/build/CMakeFiles/vsce-package.dir
